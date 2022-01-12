@@ -8,7 +8,7 @@ def main() -> None: # function return annotation. Not needed.
 	screen_width = 80
 	screen_height = 50
 
-	player_x = int((screen_width/2))
+	player_x = int((screen_width/2)) # values in python more fluid than in c++. Can easily change from int to float, so need to use int() to ensure it stays integer
 	player_y = int((screen_height/2))
 
 	# Using tcod.tileset.load_tilesheet(path: Union[str, PathLike[str]], columns: int, rows: int, charmap: Optional[Iterable[int]]) -> Tileset
