@@ -5,4 +5,6 @@ https://rogueliketutorials.com/tutorials/tcod/v2/
 
 https://python-tcod.readthedocs.io/en/latest/
 
+https://numpy.org/doc/
+
 https://docs.python.org/3/
