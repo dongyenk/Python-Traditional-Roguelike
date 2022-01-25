@@ -9,4 +9,6 @@ https://numpy.org/doc/
 
 https://docs.python.org/3/
 
-## Example Images directory contains images of the game.
+### Example Images directory contains images of the game.
+
+### code directory contains files needed for the game
