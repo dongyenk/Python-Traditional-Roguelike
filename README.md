@@ -8,3 +8,5 @@ https://python-tcod.readthedocs.io/en/latest/
 https://numpy.org/doc/
 
 https://docs.python.org/3/
+
+## Example Images directory contains images of the game.
