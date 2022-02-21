@@ -3,11 +3,13 @@
 It represents the dungeon. It's rooms, corridors and entities. (Characters and items.)
 
 game_map object is in the engine object.
+
 ---------------------------------------------------------------------------------------------------------
 
 # Engine class
 
 Has code which handles enemy turns, visibility, and calling game_map object's render function which draws the game's graphics.
+
 ---------------------------------------------------------------------------------------------------------
 
 # Entity class
