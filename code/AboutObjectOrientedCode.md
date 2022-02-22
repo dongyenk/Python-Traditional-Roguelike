@@ -1,8 +1,8 @@
 # Engine Class
 
-Blueprint for an important object which ...
+Blueprint for an important object which contains the below.
 
-## Contains GameMap object
+## GameMap object
 
 ### And GameMap object contains all the game's entities, such as rats.
 
