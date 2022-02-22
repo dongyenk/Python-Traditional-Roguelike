@@ -4,7 +4,7 @@ Class for the important Engine object which contains vital objects. These are me
 
 ## GameMap object
 
-GameMap object contains all the game's entities, such as rats.
+GameMap object contains all the game's entities, such as dungeon rats, rooms and corridors.
 
 Entity objects are stored in a set inside the GameMap object. This GameMap object is an attribute of the Engine object.
 
