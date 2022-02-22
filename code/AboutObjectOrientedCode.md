@@ -6,7 +6,9 @@ Blueprint for the important Engine object which contains vital objects. These ar
 
 GameMap object contains all the game's entities, such as rats.
 
-## Contains EventHandler object
+Entity objects are stored in a set inside the GameMap object. This GameMap object is an attribute of the Engine object.
+
+## EventHandler object
 
 Which contains the Action subclass objects, with code used to make entities act.
 
