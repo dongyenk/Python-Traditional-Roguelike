@@ -10,4 +10,4 @@ GameMap object contains all the game's entities, such as rats.
 
 Which contains the Action subclass objects, with code used to make entities act.
 
-###👁 The Engine object works with the GameMap object to draw the game's graphics.
+### 👁 The Engine object works with the GameMap object to draw the game's graphics.
