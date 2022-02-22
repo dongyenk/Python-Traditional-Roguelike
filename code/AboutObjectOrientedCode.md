@@ -1,20 +1,13 @@
-# GameMap class in game_map module
+# Engine Class
 
-It represents the dungeon. It's rooms, corridors and entities. (Characters and items.)
+Blueprint for an important object which ...
 
-game_map object is in the engine object.
+## Contains GameMap object
 
----------------------------------------------------------------------------------------------------------
+### And GameMap object contains all the game's entities, such as rats.
 
-# Engine class
+## Contains EventHandler object
 
-Has code which handles enemy turns, visibility, and calling game_map object's render function which draws the game's graphics.
+### Which contains the Action subclass objects, with code used to make entities act.
 
----------------------------------------------------------------------------------------------------------
-
-# Entity class
-
-To represent all dungeon entities. Their location, colour, graphics, attributes.
-
-Entity objects created in the entity_objects module. From there, they are copied and put into the game_map dungeon object.
-
+👁 The Engine object works with the GameMap object to draw the game's graphics.
