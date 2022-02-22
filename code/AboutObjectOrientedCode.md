@@ -1,6 +1,6 @@
 # Engine Class
 
-Blueprint for an important object which contains the below.
+Blueprint for the important Engine object which contains vital objects. These are mentioned below.
 
 ## GameMap object
 
