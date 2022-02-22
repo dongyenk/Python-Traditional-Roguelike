@@ -8,6 +8,8 @@ GameMap object contains all the game's entities, such as dungeon rats, rooms and
 
 Entity objects are stored in a set inside the GameMap object. This GameMap object is an attribute of the Engine object.
 
+Each room is an object, and the corridors are not. They are just array locations selected by TCOD libray line drawing function.
+
 ## EventHandler object
 
 Which contains the Action subclass objects, with code used to make entities act.
